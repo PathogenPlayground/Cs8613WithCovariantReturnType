@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs8613WithCovariantReturnType", "Cs8613WithCovariantReturnType\Cs8613WithCovariantReturnType.csproj", "{400B91A6-7BBD-4E6D-B46C-D7DE2C28B61A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{A10660DA-BEC1-4C38-B85A-9CE207625629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{400B91A6-7BBD-4E6D-B46C-D7DE2C28B61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400B91A6-7BBD-4E6D-B46C-D7DE2C28B61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400B91A6-7BBD-4E6D-B46C-D7DE2C28B61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400B91A6-7BBD-4E6D-B46C-D7DE2C28B61A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10660DA-BEC1-4C38-B85A-9CE207625629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10660DA-BEC1-4C38-B85A-9CE207625629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10660DA-BEC1-4C38-B85A-9CE207625629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10660DA-BEC1-4C38-B85A-9CE207625629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A4F3F5A-C9A6-40C1-AFCB-B7FF42D71E81}
+	EndGlobalSection
+EndGlobal
